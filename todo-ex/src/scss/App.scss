@@ -1,0 +1,9 @@
+$red: #00fff3;
+.container {
+  background-color: $red;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  flex-wrap: nowrap;
+  align-items: stretch;
+}
